@@ -3,9 +3,9 @@ User can make important Note as well as save it for future reference.You can mar
 ### Click to visit the app: 
 
 
-![test image size]
+![test image size](https://raw.githubusercontent.com/SamirPaulb/MakeNotes/main/demo.png)
 
 Mobile View:
-![screenshot]
+![screenshot](https://raw.githubusercontent.com/SamirPaulb/MakeNotes/main/mobile_View.jpg)
 ---
 
